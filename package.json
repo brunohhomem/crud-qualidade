@@ -4,7 +4,7 @@
   "description": "Criar crud com qualidade",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon ./core/crud.js",
+    "dev": "npx ts-node ./core/crud.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,6 +19,10 @@
   },
   "homepage": "https://github.com/brunohhomem/crud-qualidade#readme",
   "devDependencies": {
+    "@types/node": "^22.15.8",
     "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "typescript": "^5.8.3"
   }
 }
