@@ -1,1 +1,22 @@
-{}
+{
+  "todos": [
+    {
+      "id": "940649b7-488e-4443-af12-ed7a55745f00",
+      "date": "2025-05-06T13:36:25.677Z",
+      "content": "Primeira TODO",
+      "done": false
+    },
+    {
+      "id": "fabf8c76-0dae-4581-aacf-0f05e8660722",
+      "date": "2025-05-06T13:36:25.678Z",
+      "content": "Primeira TODO",
+      "done": false
+    },
+    {
+      "id": "c7790ba2-8ffa-4a69-9d00-c13a36ac9c1d",
+      "date": "2025-05-06T13:36:25.679Z",
+      "content": "Atualizada!",
+      "done": false
+    }
+  ]
+}
